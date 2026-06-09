@@ -58,5 +58,5 @@ Currently working through data cleaning and exploratory analysis. Visualizations
 
 **Jayanthika Krishnamoorthy**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayanthika%20Krishnamoorthy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayanthika-k)
-[![GitHub](https://img.shields.io/badge/GitHub-JayanthikaKrishnamoorthy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JayanthikaKrishnamoorthy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayanthika-k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JayanthikaKrishnamoorthy)
