@@ -1,24 +1,7 @@
 PROJECT ID - 78G0OL
 
-WORK FLOW
-    - Defining the Problem
-    - Dataset of the Problem
-        - Exploring Database tables
-        - Merge and clean Database
-            - Aggregated tables
-            - Save into the Database
-    - Load Aggregated table into Jupyter Notebook 
-        - EDA
-        - Data Cleaning
-        - Solving research questions (from Problem)
-        - Analyze and Interpret Findings
-    - Create Dashboard using POWER BI
-    - Report writing
-
-
 PROBLEM STATEMENT
     Analyze and Provide Insights on Amazon Sales Report
-
 
 DESCRIPTION 
     Dataset contains information about Amazon sales transactions.
@@ -42,3 +25,76 @@ OBJECTIVE
     - Geographical Analysis: Study sales distribution across regions.
     - Business Insights: Provide actionable recommendations for growth.
 
+NOTES 
+    - Sales Overview
+        - Questions
+            - What is the total sales revenue?
+            - How many orders were placed?
+            - Which month/day had the highest sales?
+            - Are sales increasing or decreasing over time?
+            - Are there seasonal trends?
+        - Example Insight
+            - Sales increased by 18% from April to June, indicating growing customer demand.
+        - Insights
+
+    - Product Analysis
+        - Questions
+            - Which product category sells the most?
+            - Which product category generates the most revenue?
+            - Which size is most purchased?
+            - What quantity is usually ordered?
+            - Which products have low sales?
+        - Example Insight
+            - Clothing category contributes 45% of total revenue, while XXL size has the lowest demand.
+        - Insights
+
+    - Fulfillment Analysis
+        - Questions
+            - Which fulfillment method is used most?
+            - Does Amazon Fulfilled have fewer cancellations?
+            - Which method generates more revenue?
+            - Which method has the highest return rate?
+        - Example Insight
+            - Amazon Fulfillment handles 72% of orders and shows a lower cancellation rate compared to Merchant Fulfillment.
+        - Insights
+
+    - Customer Segmentation
+        - Questions
+            - Which states/cities order the most?
+            - Who are the high-value customers?
+            - Which locations place frequent orders?
+            - Are some regions buying specific products?
+        - Example Insight
+            - Customers from Maharashtra and Karnataka contribute over 35% of total sales revenue.
+        - Insights
+
+    - Geographical Analysis
+        - Questions
+            - Which states have the highest sales?
+            - Which regions have low sales?
+            - Where should marketing efforts be focused?
+            - Which locations have high cancellation rates?
+        - Example Insight
+            - Southern states account for the largest share of sales, while North-Eastern states show untapped growth potential.
+        - Insights
+
+    - Business Insights and recommendations
+
+WORK FLOW
+    - Defining the Problem
+    - Dataset of the Problem
+        - Exploring Database tables
+        - Merge and clean Database
+            - Aggregated tables
+            - Save into the Database
+    - Load Aggregated table into Jupyter Notebook 
+        - EDA
+        - Data Cleaning
+        - Solving research questions
+        - Analyze and Interpret Findings
+    - Create Dashboard using POWER BI
+    - Report writing
+
+
+
+        
