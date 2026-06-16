@@ -9,13 +9,23 @@ DESCRIPTION
         - Order ID
         - Date 
         - Status
-        - Fulfilment method
-        - Sales channel
-        - Product category
+        - Fulfilment
+        - Sales Channel
+        - ship-service-level
+        - Category
+        - Courier Status
         - Size 
-        - Quantity
-        - Amount 
-        - Shipping details
+        - Qty
+        - currency
+        - ship-city
+        - ship-state
+        - ship-postal-code
+        - ship-country
+        - Amount
+        - B2B
+        - fulfilled-by
+        - New
+        - PendingS
 
 OBJECTIVE
     - Sales Overview: Analyze overall sales trends and patterns over time.
